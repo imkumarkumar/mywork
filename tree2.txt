@@ -1,0 +1,6 @@
+trees
+branches
+roots
+leaves
+stem
+flowers
